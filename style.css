@@ -27,7 +27,7 @@ p {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
 }
 #top-section {
   width: 100%;
@@ -70,9 +70,9 @@ p {
   /* color: #c0df34; */
   margin-bottom: 10px;
 }
-#top-section p {
-  /* color: #98a6bd; */
-}
+/* #top-section p {
+     color: #98a6bd;
+} */
 button {
   /* color: white; */
   /* background-color: #c0df34; */
